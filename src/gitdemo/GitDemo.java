@@ -1,7 +1,7 @@
 package gitdemo;
 
 /**
- * my first 
+ * second
  * 
  */
 public class GitDemo
