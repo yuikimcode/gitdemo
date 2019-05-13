@@ -1,8 +1,8 @@
 package gitdemo;
 
 /**
- *
- * @author Rich Smith at ZenOfProgramming.com
+ * my first 
+ * 
  */
 public class GitDemo
 {
